@@ -80,6 +80,7 @@ Dưới đây là file README.md bằng tiếng Việt dựa trên yêu cầu c�
 Dự án này trình bày cách triển khai mã hóa và giải mã XOR bằng Python. XOR (Exclusive OR) là một kỹ thuật mã hóa cơ bản, được sử dụng để làm rối dữ liệu bằng cách thực hiện phép toán XOR giữa dữ liệu và khóa. Dự án này nhằm mục đích giáo dục, minh họa quá trình mã hóa và giải mã một tệp bằng mã hóa XOR cùng với việc nén dữ liệu cơ bản bằng `zlib`.
 
 ![Mã hóa XOR](https://media.discordapp.net/attachments/1297198528531009536/1297198528795246613/image-213.png?ex=67150dc6&is=6713bc46&hm=cd77e7fe5d8ae030bddb999aef0d0c81ebb0d1f62d1d8bbd6ae833e2918193d9&)
+Hình ảnh phần mềm độc hại được mã hóa 100%
 
 ## Mã hóa XOR là gì?
 
